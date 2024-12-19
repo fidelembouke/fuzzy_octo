@@ -1,1 +1,1 @@
-Ce projet est réalisation dans le cadre de l'importation de données JSON dans MongoDB
+Ce projet est réalisé dans le cadre de la manipulation des données de types json en python et l'affichage de marqueurs sur une carte google map.
